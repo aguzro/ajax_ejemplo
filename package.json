@@ -1,0 +1,17 @@
+{
+  "name": "nodeej",
+  "version": "0.0.0",
+  "description": "Example of NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodejs server.js"
+  },
+  "author": "Matias Bensan A",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.0.0",
+    "body-parser": "~1.0.1",
+    "randomstring": "1.1.5"
+  }
+}
